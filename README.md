@@ -1,6 +1,6 @@
 
 
-### you can run:
+### To use:
 `npm install`
  `npm start`
 
