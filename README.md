@@ -4,7 +4,7 @@
 
 ![dream preview](https://github.com/gabrielacepeda/Dream-Hotel-React/blob/master/dream-home.svg)
 
-A hotel website built using React that lets you view services and rooms. 
+A hotel website built using React that lets you view rooms and services. 
 
 ## Tech used:
 React JS,CSS/styled components.
